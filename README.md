@@ -19,8 +19,8 @@
 
 ## **CODING STATS**
 <p align = 'center'>
-    <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=aravind-selvam&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
-    <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aravind-selvam&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true'/>
+    <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=iamsamkhan&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
+    <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamsamkhan&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true'/>
 </p>
 
 ## **STREAK STATS**
@@ -30,11 +30,11 @@
 
 ## **CONNECT WITH ME**:
 <p align="left">
-<a href = "https://www.linkedin.com/in/aravind-selvam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "https://twitter.com/Aravind__36"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href = "https://www.linkedin.com/in/iamsamkhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "https://twitter.com/iamsamkhan1_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href = "https://www.instagram.com/aravind._selvam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href='https://github.com/iamsamkhan?tab=followers'>
-   <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/aravind-selvam?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
+   <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/iamsamkhan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
 <br>
 </a>
 
