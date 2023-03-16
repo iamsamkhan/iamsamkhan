@@ -2,9 +2,12 @@
 <h2 align="center">  Hey! Nice to see you. </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsamkhan2&label=Profile%20views&color=0e75b6&style=flat" alt="iamsamkhan" /> </p>
+<div align='center'>
+<img src='https://readme-typing-svg.herokuapp.com/?font=30,ubuntu&color"black"=16A085&center=true&lines=Shamshad+Ahmed'/>
+</div>
 
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=30,ubuntu&color="pink"=16A085&center=true&lines=Data+Scientist%20%20;Data+Enthusiast'/>
+<img src='https://readme-typing-svg.herokuapp.com/?font=30,ubuntu&color="pink"=16A085&center=true&lines=Data+Scientist%20%20;Big+Data+Engineer;Data+Enthusiast'/>
 </div>
 
 
@@ -14,7 +17,7 @@
 
 - 👋 Hi, I’m **Sam Khan**
 - 🔭 I’m currently working as **Data Scientist**.
-- 🌱 I’m currently working on **Machine Learnring, NLP,AI, MLOps Tools (MLFLOW, DVC), Big Data.**
+- 🌱 I’m currently working on **Machine Learnring, NLP,AI, MLOps Tools (MLFLOW, DVC,GCP,AWS), Big Data.**
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/iamsamkhan)
 
 👨‍💻 Completed **Big Data and Full Stack Data Science certificates.** 
