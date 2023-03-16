@@ -8,7 +8,7 @@
 
 
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=30,ubuntu&color="pink"=16A085&center=true&lines=Data+Scientist%20%20;Big+Data+Engineer;Data+Enthusiast'/>
+<img src='https://readme-typing-svg.herokuapp.com/?font=30,ubuntu&color="pink"=16A085&center=true&lines=Data+Scientist%20%20;Big+Data+Engineer;Artificial+Intelligence'/>
 </div>
 
 
