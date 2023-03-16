@@ -9,9 +9,6 @@
 
 ## **ABOUT ME**
 
-#<h1 align="center">Hi 👋, I'm Sam Khan</h1>
-#<h3 align="center">A passionate data scientist</h3>
-
 - 👋 Hi, I’m Sam Khan
 - 🔭 I’m currently working as Data Scientist.
 - 🌱 I’m currently working on AI.
