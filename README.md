@@ -1,11 +1,12 @@
+
+
+<h1 align="center">Hi 👋, I'm Sam Khan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 - 👋 Hi, I’m Sam Khan
 - 🔭 I’m currently working as Data Scientist.
 - 🌱 I’m currently working on AI.
 
 👨‍💻 Completed Big Data  and Full Stack Data Science certificates.
-
-<h1 align="center">Hi 👋, I'm Sam Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsamkhan" alt="iamsamkhan" /></a> </p>
 
