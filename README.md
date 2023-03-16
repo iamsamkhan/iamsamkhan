@@ -31,7 +31,7 @@
 ## **CODING STATS**
 <p align = 'center'>
     <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=iamsamkhan&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
-    <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamsamkhan&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true'/>
+    
 </p>
 
 ## **STREAK STATS**
@@ -39,7 +39,7 @@
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=iamsamkhan&theme=gotham&hide_border=true'>
    
 </p>
-
+<img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamsamkhan&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true'/>
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </a>
