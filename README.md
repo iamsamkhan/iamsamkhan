@@ -36,7 +36,7 @@
 
 ## **STREAK STATS**
 <p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=aravind-selvam&theme=gotham&hide_border=true'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=iamsamkhan&theme=gotham&hide_border=true'>
    
 </p>
 
