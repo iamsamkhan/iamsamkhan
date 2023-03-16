@@ -1,13 +1,47 @@
 
+<h2 align="center">Hi, I'm SAM KHAN </h2>
 
-<h1 align="center">Hi 👋, I'm Sam Khan</h1>
-<h3 align="center">A passionate data scientist</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aravind9722&label=Profile%20views&color=0e75b6&style=flat" alt="aravind-selvam" /> </p>
+
+<div align='center'>
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Scientist%20@%20iNeuron;Data+Enthusiast'/>
+</div>
+
+## **ABOUT ME**
+
+#<h1 align="center">Hi 👋, I'm Sam Khan</h1>
+#<h3 align="center">A passionate data scientist</h3>
 
 - 👋 Hi, I’m Sam Khan
 - 🔭 I’m currently working as Data Scientist.
 - 🌱 I’m currently working on AI.
 
 👨‍💻 Completed Big Data  and Full Stack Data Science certificates.
+
+
+
+## **CODING STATS**
+<p align = 'center'>
+    <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=aravind-selvam&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
+    <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aravind-selvam&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true'/>
+</p>
+
+## **STREAK STATS**
+<p align = 'center'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=aravind-selvam&theme=gotham&hide_border=true'>
+</p>
+
+## **CONNECT WITH ME**:
+<p align="left">
+<a href = "https://www.linkedin.com/in/aravind-selvam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "https://twitter.com/Aravind__36"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href = "https://www.instagram.com/aravind._selvam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href='https://github.com/aravind9722?tab=followers'>
+   <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/aravind-selvam?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
+<br>
+</a>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsamkhan" alt="iamsamkhan" /></a> </p>
 
