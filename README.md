@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamsamkhan
+- 👋 Hi, I’m Sam Khan
 - 🌱 I’m currently working as Data Scientist.
 - 🌱 I’m currently working on AI.
 
