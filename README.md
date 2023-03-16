@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravind9722&label=Profile%20views&color=0e75b6&style=flat" alt="aravind-selvam" /> </p>
 
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Scientist%20@%20iNeuron;Data+Enthusiast'/>
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Scientist%20@%20;Data+Enthusiast'/>
 </div>
 
 ## **ABOUT ME**
@@ -36,7 +36,7 @@
 <a href = "https://www.linkedin.com/in/aravind-selvam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "https://twitter.com/Aravind__36"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href = "https://www.instagram.com/aravind._selvam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href='https://github.com/aravind9722?tab=followers'>
+<a href='https://github.com/iamsamkhan?tab=followers'>
    <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/aravind-selvam?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
 <br>
 </a>
