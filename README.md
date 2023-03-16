@@ -14,9 +14,10 @@
 
 - 👋 Hi, I’m Sam Khan
 - 🔭 I’m currently working as Data Scientist.
-- 🌱 I’m currently working on AI.
+- 🌱 I’m currently working on **Machine Learnring, NLP, MLOps Tools (MLFLOW, DVC), PyTorch.**
+- 💻 Check my Projects and other Repos [HERE.](https://github.com/iamsamkhan)
 
-👨‍💻 Completed Big Data  and Full Stack Data Science certificates.
+👨‍💻 Completed **Big Data and Full Stack Data Science certificates.** 
 
 
 <img align="right" alt="coding" width="1800" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
