@@ -6,7 +6,7 @@
 <div align='center'>
 <img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Data+Scientist%20@%20;Data+Enthusiast'/>
 </div>
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/R.0e44882587da10a939941f8aee1fce49?rik=TzMwAG9vSiVhrA&riu=http%3a%2f%2fcdn.wallpapersafari.com%2f98%2f36%2fdzh0Zs.gif&ehk=U%2bjHveJtxeROJDsKIK%2fqlYr07quLVZTK5%2f%2fBYJ9FJ%2fU%3d&risl=&pid=ImgRaw&r=0">
+
 
 
 
