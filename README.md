@@ -23,7 +23,7 @@
 
 👨‍💻 Completed **Big Data and Full Stack Data Science certificates.** 
 
-# AI_Resume-Analyzer
+
 By [<b>shamshad ahmed</b>](https://iamsmakhan.netlify.app)
 
 Connect with me on social media and explore my work:
