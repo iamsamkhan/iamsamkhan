@@ -18,7 +18,7 @@
 
 - 👋 Hi, I’m **Sam Khan**
 - 🔭 I’m currently working as **Data Scientist**.
-- 🌱 I’m currently working on **Machine Learnring, Mlops with LLM and DL Models ... 🤖Generative AI 🧠 Natural Language Processing 💻 Prompt Engineering 👨‍💻 Computer Vision Tools (MLFLOW, DVC, GCP, AWS), Big Data  .**
+- 🌱 I’m currently working on **Machine Learnring,with LLM and DL Models ... 🤖Generative AI 🧠 Natural Language Processing 💻 Prompt Engineering 👨‍💻 Computer Vision, Mlops  Tools (MLFLOW, DVC, GCP, AWS), Big Data  .**
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/iamsamkhan)
 
 👨‍💻 Completed **Big Data and Full Stack Data Science certificates.** 
