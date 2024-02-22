@@ -23,6 +23,17 @@
 
 👨‍💻 Completed **Big Data and Full Stack Data Science certificates.** 
 
+# AI_Resume-Analyzer
+By [<b>shamshad ahmed</b>](https://iamsmakhan.netlify.app)
+
+Connect with me on social media and explore my work:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iamsamkhan/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/iamsamkhan)
+[![Medium](https://img.shields.io/badge/Medium-Follow-03a57a?style=flat-square&logo=medium)](https://medium.com/@iamsamkhan)
+[![Twitter](https://img.shields.io/twitter/follow/iamsamkhan__?style=social)](https://twitter.com/iamsamkhan__)
+[![Shamshad ahmed](https://img.shields.io/badge/Sponsor-sam_khan-28a745?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/iamsamkhan)
+
 
 <img align="right" alt="coding" width="1800" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
 
