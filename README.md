@@ -23,8 +23,7 @@
 
 👨‍💻 Completed **Big Data and Full Stack Data Science certificates.** 
 
-
-[<b>shamshad ahmed</b>](https://iamsmakhan.netlify.app)
+[<b>shamshad ahmed</b>](mailto:smshad0001@gmail.com).
 
 Connect with me on social media:
 
