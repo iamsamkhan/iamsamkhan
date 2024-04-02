@@ -1,5 +1,5 @@
 
-<h2 align="center">  Hey! Nice to see you. </h2>
+<h2 align="center">  Hey! Nice to see you. 👋 </h2> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsamkhan2&label=Profile%20views&color=0e75b6&style=flat" alt="iamsamkhan" /> </p>
 <div align='center'>
