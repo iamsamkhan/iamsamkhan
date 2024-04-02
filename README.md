@@ -27,7 +27,7 @@
 👨‍💻 Completed **Big Data and Full Stack Data Science certificates.** 
 
 
-[<b>shamshad ahmed</b>](https://www.linkedin.com/in/iamsamkhan/)
+[<b>shamshad ahmed</b>](https://wa.me/917015531011)
 
 #### [Data Science-LLMs Models](https://github.com/iamsamkhan/LLM_Models-.git) ##
 #### [AI-Matcher-automation](https://github.com/iamsamkhan/ATS-Resume-LLMs-AI-Matcher-automation.git) ##
