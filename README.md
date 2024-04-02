@@ -17,8 +17,9 @@
 ## **ABOUT ME**
 
 - 👋 Hi, I’m **Sam Khan**
-- 🔭 I’m currently working as **Data Scientist**.
-- 🌱 I’m currently working on **Machine Learnring,with LLM and DL Models ... 🤖Generative AI 🧠 Natural Language Processing 💻 Prompt Engineering 👨‍💻 Computer Vision, Mlops  Tools (MLFLOW, DVC, GCP,KubeFLow,AirFlow AWS,AZURE and VertexAI,AWSBedrock Services), Big Data  .**
+- 🔭 Currently,I’m  working as **Data Scientist**.
+- 👋 I,m a Senior Data Scientist and Machine Learning Researcher, now transitions into the role of an AI Engineer. With a profound passion for data and unwavering belief in the potential of AI, I am committed to leveraging my expertise to engineer innovative AI solutions that drive impact and advancement in the field. My journey as an AI Engineer is fueled by a deep-rooted curiosity for emerging technologies and a relentless pursuit of excellence in crafting intelligent systems
+- 🌱 Currently,I’m  working on **AI Engineer,with DL,NLP and LLMs Models ... 🤖Generative AI 🧠 Natural Language Processing 💻 Prompt Engineering 👨‍💻 Computer Vision, Mlops  Tools (MLFLOW, DVC, GCP,KubeFLow,AirFlow AWS,AZURE and VertexAI,AWSBedrock Services), Big Data  .**
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/iamsamkhan)
 
 👨‍💻 Completed **Big Data and Full Stack Data Science certificates.** 
