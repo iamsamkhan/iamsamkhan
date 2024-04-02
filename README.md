@@ -47,6 +47,7 @@ Connect with me on social media:
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook)](https://www.facebook.com/iam.samkhan__)
 [![Discord](https://img.shields.io/badge/Discord-iamsamkhan-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/iamsamkhan)
 [![Shamshad ahmed](https://img.shields.io/badge/Sponsor-sam_khan-28a745?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/iamsamkhan)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=flat-square&logo=whatsapp)](https://wa.me/)
 
 
 <img align="right" alt="coding" width="1800" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
