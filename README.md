@@ -24,7 +24,7 @@
 👨‍💻 Completed **Big Data and Full Stack Data Science certificates.** 
 
 #### [Data Science Portoflio](https://github.com/iamsamkhan/Data.Science.LLMs-AI.git) ##
-#### [Data Science-LLMs Models](https://github.com/iamsamkhan/LLM_Models-.git ##
+#### [Data Science-LLMs Models](https://github.com/iamsamkhan/LLM_Models-.git) ##
 
 [<b>shamshad ahmed</b>](mailto:smshad0001@gmail.com).
 
