@@ -44,6 +44,7 @@ Connect with me on social media:
 [![Medium](https://img.shields.io/badge/Medium-Follow-03a57a?style=flat-square&logo=medium)](https://medium.com/@iamsamkhan)
 [![Twitter](https://img.shields.io/twitter/follow/iamsamkhan__?style=social)](https://twitter.com/iamsamkhan__)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/iam.samkhan__)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook)](https://www.facebook.com/iam.samkhan__)
 [![Discord](https://img.shields.io/badge/Discord-iamsamkhan-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/iamsamkhan)
 [![Shamshad ahmed](https://img.shields.io/badge/Sponsor-sam_khan-28a745?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/iamsamkhan)
 
