@@ -18,7 +18,7 @@
 
 - 👋 Hi, I’m **Sam Khan**
 - 🔭 Currently,I’m  working as **AI Engineer**.
-- 👋 I,m a Senior Data Scientist and Machine Learning Researcher, now transitions into the role of an AI Engineer. With a profound passion for data and unwavering belief in the potential of AI, I am committed to leveraging my expertise to engineer innovative AI solutions that drive impact and advancement in the field. My journey as an AI Engineer is fueled by a deep-rooted curiosity for emerging technologies and a relentless pursuit of excellence in crafting intelligent systems......
+- 👋 I,m a Senior Data Scientist and Machine Learning Researcher, now transitions into the role of an AI Engineer. With a profound passion for data and unwavering belief in the potential of AI, I am committed to leveraging my expertise to engineer innovative AI solutions that drive impact and advancement in the field. My journey as an AI Engineer is fueled by a deep-rooted curiosity for emerging technologies and a relentless pursuit of excellence in crafting intelligent systems ,continuously refining methodologies to drive innovation and deliver impactful results. Excited to collaborate on transformative projects that push the boundaries of AI capabilities.......
 - 🌱 Currently,I’m  working on **Data Scientist-Gen AI,with DL,NLP and LLMs Models ... 🤖Generative AI 🧠 Natural Language Processing 💻 Prompt Engineering 👨‍💻 Computer Vision, Mlops  Tools (MLFlow,LLmops, DVC, KubeFLow ,AirFlow , AZURE with Azure Cognitive Services and Google Cloud Platform with VertexAI, AWS with Aws Bedrock Services, Amazon SageMaker), Big Data Concepts and Data Science Problems.**
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/iamsamkhan)
 
