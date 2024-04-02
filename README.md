@@ -33,7 +33,7 @@
 #### [LLMOPS-SAGEMAKER](https://github.com/iamsamkhan/LLMOPS-SAGEMAKER.git) ##
 
 
-[<b>shamshad ahmed</b>](mailto:smshad0001@gmail.com).
+[<b>shamshad ahmed</b>](https://www.linkedin.com/in/iamsamkhan/)
 
 Connect with me on social media:
 
