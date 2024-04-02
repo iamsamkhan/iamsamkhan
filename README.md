@@ -23,9 +23,10 @@
 
 👨‍💻 Completed **Big Data and Full Stack Data Science certificates.** 
 
-#### [Data Science Portoflio](https://github.com/iamsamkhan/Data.Science.LLMs-AI.git) ##
-#### [AI-Matcher-automation](https://github.com/iamsamkhan/ATS-Resume-LLMs-AI-Matcher-automation.git) ##
+
 #### [Data Science-LLMs Models](https://github.com/iamsamkhan/LLM_Models-.git) ##
+#### [AI-Matcher-automation](https://github.com/iamsamkhan/ATS-Resume-LLMs-AI-Matcher-automation.git) ##
+#### [Data Science Portoflio](https://github.com/iamsamkhan/Data.Science.LLMs-AI.git) ##
 #### [LLMOPS-SAGEMAKER](https://github.com/iamsamkhan/LLMOPS-SAGEMAKER.git) ##
 
 
